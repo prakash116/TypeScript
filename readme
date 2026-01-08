@@ -1,0 +1,17 @@
+TypeScript 
+
+How to install 
+simple without any library 
+npm init -y
+
+install TypeScript
+npm i -D typescript
+
+create typescript project or setup 
+npx tsc --init
+
+Menualy create dist and scr folder
+write some code then run command 
+npx tsc 
+
+set script inside package.json for project running or start
