@@ -15,3 +15,6 @@ write some code then run command
 npx tsc 
 
 set script inside package.json for project running or start
+
+Explain any, union and how many data type 
+why avoid any 
